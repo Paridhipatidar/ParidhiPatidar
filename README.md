@@ -13,13 +13,44 @@
 
 ---
 
-### 🛠 **Core Tech Stack**
-✔ **Frontend:** HTML | CSS | JavaScript (ES6+)  
-✔ **Backend:** Java | Spring Boot  
-✔ **Programming:** C++ | Java | DSA  
-✔ **Databases:** SQL | MySQL  
-✔ **Version Control:** Git | GitHub  
-✔ **Core Concepts:** System Architecture | OOP | Multithreading  
+## 🛠 Core Tech Stack
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🧰 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+---
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Important-blue?style=for-the-badge)
+
+---
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🗂️ Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🧠 Core Concepts  
+⭐ System Architecture  
+⭐ Object-Oriented Programming (OOP)  
+⭐ Multithreading
+
 
 ---
 
@@ -72,7 +103,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar03&theme=github_dark&hide_border=true" width="450">
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar&theme=dark&hide_border=false&layout=compact">
+</p>
+
 
 
 
