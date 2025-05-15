@@ -10,9 +10,9 @@
 🔍 **Building efficient systems, optimizing performance, and solving real-world challenges.**  
 
 
-- 💻 I love working with **Java**, **Spring Boot**, and **modern JavaScript**  
-- 🧠 I enjoy solving problems with **Data Structures & Algorithms (DSA)**  
-- 🚀 I'm always eager to learn, grow, and collaborate on exciting tech projects  
+- 💻 Love working with **Java**, **Spring Boot**, and **modern JavaScript**  
+- 🧠 Enjoy solving problems with **Data Structures & Algorithms (DSA)**  
+- 🚀 Always eager to learn, grow, and collaborate on exciting tech projects  
 
 > *"Code is not just a profession, it's a passion."* 
 
