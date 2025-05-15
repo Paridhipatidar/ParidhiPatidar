@@ -72,8 +72,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar03&theme=github_dark&hide_border=true" width="450">
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar&theme=dark&hide_border=true&layout=compact)
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar&theme=dark&hide_border=true&layout=compact" target="_blank" rel="noopener noreferrer">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar&theme=dark&hide_border=false&layout=compact)
+
 
 
 
