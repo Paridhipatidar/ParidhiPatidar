@@ -61,7 +61,9 @@
   <a href="https://leetcode.com/u/paridhipatida03/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-
+ <a href="https://www.geeksforgeeks.org/user/patidarparmmn/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
 </p>
 
 ---
