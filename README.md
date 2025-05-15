@@ -15,7 +15,7 @@
 
 ### 🛠 **Core Tech Stack**
 ✔ **Frontend:** HTML | CSS | JavaScript (ES6+)  
-✔ **Backend:** Java | Spring Boot | REST APIs  
+✔ **Backend:** Java | Spring Boot  
 ✔ **Programming:** C++ | Java | DSA  
 ✔ **Databases:** SQL | MySQL  
 ✔ **Version Control:** Git | GitHub  
@@ -38,9 +38,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar03&layout=compact&theme=dark&hide_border=true" width="400">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paridhipatidar03&theme=github-compact&hide_border=true">
-</p>
+</p> -->
 
 ---
 
