@@ -73,6 +73,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar03&show_icons=true&theme=github_dark&hide_border=true" width="450">
 </p>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar03&theme=dark&hide_border=false&layout=compact" width="400" alt="Top Languages" />
+</p>
+
 
 
 
