@@ -23,12 +23,14 @@
 
 ---
 
-### 🌀 **Philosophy of My Code**
-💡 *If software were a city, I'd be the architect.*  
-🕶 *I don't just debug errors, I refine logic.*  
-⚔ *Coding isn’t just syntax; it’s engineering thought.*  
-🎯 *Striving for efficiency—because slow code is a crime.*  
-🔥 *I don’t just push code. I push boundaries.*  
+<h3>🏆 Achievements & Certifications</h3>
+
+<ul>
+  <li>🎓 Certified in <strong>Java</strong> — GeeksforGeeks</li>
+  <li>🎨 Certified in <strong>UI/UX Design</strong> — Applied School</li>
+  <li>☕ Certified in <strong>Java SE Programming</strong> — Oracle</li>
+</ul>
+
 
 ---
 
