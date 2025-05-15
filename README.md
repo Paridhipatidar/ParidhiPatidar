@@ -24,10 +24,27 @@
 ---
 
 ### 🌀 **Philosophy of My Code**
-💡 **If software were a city, I'd be the architect.**  
-🕶 **I don't just debug errors, I refine logic.**  
-⚔ **Coding isn’t just syntax; it’s engineering thought.**  
-🎯 **Striving for efficiency—because slow code is a crime.**  
+💡 *If software were a city, I'd be the architect.*  
+🕶 *I don't just debug errors, I refine logic.*  
+⚔ *Coding isn’t just syntax; it’s engineering thought.*  
+🎯 *Striving for efficiency—because slow code is a crime.*  
+🔥 *I don’t just push code. I push boundaries.*  
+
+---
+
+<h2>🧭 Leadership & Positions of Responsibility</h2>
+
+<ul>
+  <li>
+    <strong>🎯 Centralized Placement Cell Coordinator</strong>, <em>IIPS DAVV</em><br>
+    <span>Managed end-to-end placement activities by acting as a bridge between recruiting companies and students. Ensured smooth coordination, scheduling, and communication for successful placement drives.</span>
+  </li>
+  <br>
+  <li>
+    <strong>📝 Volunteer – National Youth Festival (India-Level)</strong><br>
+    <span>Served in the <strong>Registration Committee</strong>, efficiently handling participant registration, data management, and real-time coordination to facilitate smooth event execution.</span>
+  </li>
+</ul>
 
 ---
 
@@ -44,4 +61,4 @@
 
 ---
 
-### 🔥 **"I don’t just push code. I push boundaries."**
+### 🧠 *Let’s build what's next — with code that speaks for itself.*
