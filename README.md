@@ -1,56 +1,35 @@
 <h1 align="center">Hey 👋, I'm Paridhi Patidar</h1>  
 <h3 align="center">🚀 Java Full Stack Developer | C++ & DSA Enthusiast | Problem Solver</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Code.+Debug.+Optimize.+Repeat.;Bridging+Logic+with+Innovation.;Crafting+Scalable+Solutions.">
 </p>
 
----
+## 👨‍💻 About Me
 
-### 🚀 **Tech Explorer | Code Architect | Algorithmic Thinker**  
 💻 **B.Tech + M.Tech (IT) Integrated Student** | 📍 **IIPS DAVV**  
 🔍 **Building efficient systems, optimizing performance, and solving real-world challenges.**  
+
+
+- 💻 I love working with **Java**, **Spring Boot**, and **modern JavaScript**  
+- 🧠 I enjoy solving problems with **Data Structures & Algorithms (DSA)**  
+- 🚀 I'm always eager to learn, grow, and collaborate on exciting tech projects  
+
+> *"Code is not just a profession, it's a passion."* 
 
 ---
 
 ## 🛠 Core Tech Stack
-
-### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 🧰 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
----
-
-### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Important-blue?style=for-the-badge)
-
----
-
-### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🗂️ Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🧠 Core Concepts  
-⭐ System Architecture  
-⭐ Object-Oriented Programming (OOP)  
-⭐ Multithreading
-
 
 ---
 
@@ -73,6 +52,7 @@
 </ul>
 
 ---
+
 <h3>🔗 Connect with Me</h3>
 
 <p>
