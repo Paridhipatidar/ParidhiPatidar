@@ -32,19 +32,13 @@
 
 ---
 
-<h2>🧭 Leadership & Positions of Responsibility</h2>
+<h3>🧭 Leadership & Responsibilities</h3>
 
 <ul>
-  <li>
-    <strong>🎯 Centralized Placement Cell Coordinator</strong>, <em>IIPS DAVV</em><br>
-    <span>Managed end-to-end placement activities by acting as a bridge between recruiting companies and students. Ensured smooth coordination, scheduling, and communication for successful placement drives.</span>
-  </li>
-  <br>
-  <li>
-    <strong>📝 Volunteer – National Youth Festival (India-Level)</strong><br>
-    <span>Served in the <strong>Registration Committee</strong>, efficiently handling participant registration, data management, and real-time coordination to facilitate smooth event execution.</span>
-  </li>
+  <li><strong>🎯 Placement Cell Coordinator</strong>, <em>IIPS DAVV</em> — Led student-company coordination for campus placements.</li>
+  <li><strong>📝 Youth Fest Volunteer</strong> — Handled national-level participant registration & logistics.</li>
 </ul>
+
 
 ---
 
