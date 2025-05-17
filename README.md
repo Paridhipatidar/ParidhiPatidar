@@ -56,7 +56,7 @@
 <h3>🔗 Connect with Me</h3>
 
 <p>
-  <a href="https://github.com/Paridhipatidar03" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Paridhipatidar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/paridhipatidar" target="_blank" rel="noopener noreferrer">
@@ -81,12 +81,12 @@
 
 ### 📈 **GitHub Insights**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar03&theme=github_dark&hide_border=true" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paridhipatidar&theme=github_dark&hide_border=true" width="450">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhipatidar&theme=dark&hide_border=false&layout=compact">
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paridhipatidar03&theme=github-compact&hide_border=true">
-</p> --> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paridhipatidar&theme=github-compact&hide_border=true">
+</p> 
 
 ---
 
